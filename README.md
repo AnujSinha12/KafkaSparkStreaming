@@ -1,4 +1,4 @@
-# KafkaSparkStreaming
+# KafkaSparkStructuredStreaming
 Application to process Spark Structured Streaming data using Pyspark where one Kafka Topic is a Source and another one is a Sink.
 
 ## Kafka
