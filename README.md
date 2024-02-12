@@ -1,5 +1,5 @@
 # KafkaSparkStreaming
-Application to Process Streaming data using Pyspark where one Kafka Topic is a Source and another one is a Sink.
+Application to Process Spark Structured Streaming data using Pyspark where one Kafka Topic is a Source and another one is a Sink.
 
 ## Kafka
 producer.py - Generate Streaming data into Kafka Topic to be further used by PySpark for prcessing streaming data
